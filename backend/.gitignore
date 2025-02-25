@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Database files
+db.sqlite3
+
+# Logs & temporary files
+*.log
+*.bak
+logs/
+tmp/
+
+# Machine Learning models
+*.pkl
+*.h5
+
+# Node modules (if frontend exists inside backend)
+node_modules/
